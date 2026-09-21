@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "dev.ilsoft.link",
+    "sha256_cert_fingerprints": ["EB:87:BE:C4:AE:C8:9A:E7:45:63:5D:55:E0:6E:46:13:B1:77:9B:B4:06:75:72:CE:EE:A5:20:C2:64:0E:DF:30"]
+  }
+}]
